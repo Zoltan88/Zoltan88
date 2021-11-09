@@ -2,7 +2,7 @@
 - 👀 I’m interested in NFTs!
 - 🌱 I’m currently learning ...how to generate NFTS
 - 💞️ I’m looking to collaborate on projects in the future with our brand MTWCollective
-- 📫 How to reach me ... jszoltan216892@gmail.com
+- 📫 How to reach me ... jszoltan216892@gmail.com  &  https://opensea.io/MTWCollective
 
 <!---
 Zoltan88/Zoltan88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
